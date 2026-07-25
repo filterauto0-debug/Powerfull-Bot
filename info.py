@@ -63,7 +63,7 @@ OWNER_UPI_ID = environ.get('OWNER_UPI_ID', '')
 # ============================
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://filterauto0_db_user:<dhanush8996>@sdmovieadda.soojroo.mongodb.net/?appName=SDmovieADDA")
 DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://filterauto0_db_user:<dhanush8996>@sdmovieadda.soojroo.mongodb.net/?appName=SDmovieADDA")
-DATABASE_NAME = environ.get('DATABASE_NAME', ""filterauto0_db_user)
+DATABASE_NAME = environ.get('DATABASE_NAME', "filterauto0_db_user")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Deendayal_files')
 
 # ============================
